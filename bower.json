@@ -1,0 +1,17 @@
+{
+    "name": "rhodiumlibre-googlefont",
+    "license": "OFL",
+    "authors": [
+        "James Puckett"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/rhodiumlibre-bower.git"
+    },
+    "description": "Rhodium Libre font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
